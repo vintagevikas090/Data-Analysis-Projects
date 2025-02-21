@@ -1,4 +1,3 @@
-
 # NIT Warangal Faculty Data Scraper  
 
 ## 📌 Project Overview  
@@ -11,10 +10,10 @@ This project is a web scraper designed to extract academic department and facult
 - Store the collected professor data in CSV format within a single folder.  
 
 ## 🛠️ Tech Stack  
-- **Python**  
-- **BeautifulSoup** (for HTML parsing)  
-- **Requests** (for sending HTTP requests)  
-- **Pandas** (for data handling and CSV storage)  
+- Python
+- BeautifulSoup (for HTML parsing)  
+- Selenium (for sending HTTP requests)  
+- Pandas (for data handling and CSV storage)  
 
 ## 📂 Output  
 The scraper gathers and organizes data such as:  
