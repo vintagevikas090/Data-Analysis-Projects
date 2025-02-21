@@ -10,10 +10,10 @@ This project is a web scraper designed to extract valuable insights from [GitHub
 - Store the extracted data in a structured CSV format within a single folder.  
 
 ## 🛠️ Tech Stack  
-- **Python**  
-- **BeautifulSoup** (for HTML parsing)  
-- **Requests** (for making HTTP requests)  
-- **Pandas** (for handling and saving data in CSV format)  
+- Python  
+- BeautifulSoup (for HTML parsing)  
+- Requests (for making HTTP requests)  
+- Pandas (for handling and saving data in CSV format)  
 
 ## 📂 Output  
 The scraper collects and organizes data such as:  
