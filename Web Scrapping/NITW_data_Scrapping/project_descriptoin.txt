@@ -1,7 +1,8 @@
 # NIT Warangal Faculty Data Scraper  
 
 ## 📌 Project Overview  
-This project is a web scraper designed to extract academic department and faculty details from the [NIT Warangal](https://nitw.ac.in/departments) website. Using Python and web scraping techniques, the scraper collects department-wise faculty data and stores it in a structured format for easy access and analysis.  
+This project is a web scraper designed to extract academic department and faculty details from the [NIT Warangal](https://nitw.ac.in/departments) website. 
+Using Python and web scraping techniques, the scraper collects department-wise faculty data and stores it in a structured format for easy access and analysis.  
 
 ## 🚀 Objectives  
 - Scrape the list of all academic departments at NIT Warangal.  
