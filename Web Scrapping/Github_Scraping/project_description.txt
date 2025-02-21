@@ -2,7 +2,9 @@
 # GitHub Topics Web Scraper  
 
 ## 📌 Project Overview  
-This project is a web scraper designed to extract valuable insights from [GitHub Topics](https://github.com/topics). Using Python and web scraping libraries like BeautifulSoup and Requests, it gathers information about featured topics and trending repositories, then saves the data in CSV format for easy access and analysis.  
+This project is a web scraper designed to extract valuable insights from [GitHub Topics](https://github.com/topics). 
+Using Python and web scraping libraries like BeautifulSoup and Requests, it gathers information about featured topics and trending repositories,
+then saves the data in CSV format for easy access and analysis.  
 
 ## 🚀 Objectives  
 - Scrape the list of all featured topics on GitHub.  
