@@ -1,4 +1,4 @@
-# **Netflix Movies & TV Shows Analysis: A Deep Dive into Streaming Trends**  
+# **Netflix Movies & TV Shows Analysis*  
 
 ## **📌 Project Overview**  
 With the ever-growing catalog of content on Netflix, understanding trends in Movies and TV Shows is crucial. This project takes a deep dive into Netflix’s content library, separating Movies and TV Shows for a **detailed comparative analysis**. 
